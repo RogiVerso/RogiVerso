@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**RogiVerso/RogiVerso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  Meus principais interesses são:
+- 1- Aprender mais sobre programação através da minha faculdade;
+- 2- Aprimorar meus conhecimentos em Excel;
+  
+- 🌱 Atualmente estou no 2° semestre da minha faculdade estudando a matéria de Engenharia de Software;
+- 🌱 E estou estudando sobre Power Quarry no Execel para projetos em meu trabalho atual.
+  
+- Meus principais hobbies são:
+- Estudar a Bíblia para minha edificação pessoal;
+- Ler livros sobre finanças e desenvolvimento pessoal;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Minhas principais habilidades são:
+- Proatividade
+- Comunicação
+- Trabalho em equipe
+- Atendimento ao cliente e parceiros.
